@@ -1,4 +1,6 @@
 # ELEMNTS
 - About: A Shopify based e-commerce website.
-- Demo: https://elemnts.com/
+- Live: https://elemnts.com/
+
+This is not an open source project. Contact me for code review.
 
